@@ -16,9 +16,9 @@ Tesla dashcam player, supports Windows, MacOS, Browser (Chrome 86+) platforms
 <img width="360" alt="Screen Shot" src='https://github.com/Mario34/tesla-camera/assets/42017165/4e24cd50-9423-4ffa-90f9-411888019061' />
 </p>
 
-## 安装
+## installation
 
-Install [Github Releases](https://github.com/the-dbp/tesla-camera/releases) Download the corresponding package. The corresponding package names for each platform are as follows
+[Github Releases](https://github.com/the-dbp/tesla-camera/releases) Download the corresponding package. The corresponding package names for each platform are as follows
 
 - Windows: \*_x64-setup.exe、\*_x64_en-US.msi
 - MacOS: \*_x64.dmg、\*_x64.app.tar.gz
